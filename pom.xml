@@ -40,7 +40,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/Mostafaa3/test</url>
+            <url>https://maven.pkg.github.com/DEPI-DevOps/app_java</url>
         </repository>
     </distributionManagement>
 
